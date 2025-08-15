@@ -10,7 +10,32 @@
 * [Резюме](https://spb.hh.ru/resume/617d0840ff0cddc6680039ed1f424f6d50464e)  
 * tg: [@Selivanovavv](https://t.me/selivanovavv)  
 * email: <selivanova.viktoria.v@gmail.com>
+
+![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Numpy-2F4F4F?logo=numpy&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Pandas-778899?logo=pandas&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Matplotlib-white?logo=matplotlib&logoColor=grey&style=for-the-badge)
+![](https://img.shields.io/badge/Seaborn-navy?logo=seaborn&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Sklearn-grey?logo=Scikit-learn&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/PyTorch-B0E0E6?logo=PyTorch&logoColor=grey&style=for-the-badge)
+![](https://img.shields.io/badge/PostgreSQL-6495DE?logo=PostgreSQL&logoColor=white&style=for-the-badge)
+
+
 ### Учебные проекты
+
+| Описание проекта | Ссылка | Инструменты |
+| --- | --- | --- |
+| Исследовательский анализ данных о продаже квартир | Ссылка | pandas, matplotlib, seaborn |
+| Описание проекта | Ссылка | Инструменты |
+| Описание проекта | Ссылка | Инструменты |
+| Описание проекта | Ссылка | Инструменты |
+| Описание проекта | Ссылка | Инструменты |
+| Описание проекта | Ссылка | Инструменты |
+| Описание проекта | Ссылка | Инструменты |
+| Описание проекта | Ссылка | Инструменты |
+| Описание проекта | Ссылка | Инструменты |
+| Описание проекта | Ссылка | Инструменты |
+| Описание проекта | Ссылка | Инструменты |
 
 <!--
 **selivanovaviktoria/selivanovaviktoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
