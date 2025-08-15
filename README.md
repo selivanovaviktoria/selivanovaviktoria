@@ -10,7 +10,7 @@
 * [Резюме](https://spb.hh.ru/resume/617d0840ff0cddc6680039ed1f424f6d50464e)  
 * tg: [@Selivanovavv](https://t.me/selivanovavv)  
 * email: <selivanova.viktoria.v@gmail.com>
-* Учебные проекты
+* [Учебные проекты](https://github.com/selivanovaviktoria/ds_projects/tree/main)  
 
 ![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Numpy-2F4F4F?logo=numpy&logoColor=white&style=for-the-badge)
